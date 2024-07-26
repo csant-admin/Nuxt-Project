@@ -5,7 +5,7 @@
 			prominent
 		>
 			<v-app-bar-nav-icon variant="text" @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
-			<v-toolbar-title>Service Record</v-toolbar-title>
+			<v-toolbar-title>App Name</v-toolbar-title>
 			<v-spacer></v-spacer>
 			<v-btn icon="mdi-dots-vertical" variant="text"></v-btn>
 		</v-app-bar>
@@ -82,7 +82,7 @@
 				<v-row justify="center" align="center" class="mb-4">
 					<v-col class="text-center">
 						<div class="page-header-text">
-							<h1 class="text-uppercase">Employee Service Record</h1>
+							<h1 class="text-uppercase">Dashboard</h1>
 						</div>
 					</v-col>
 				</v-row>
