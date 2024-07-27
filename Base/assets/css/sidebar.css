@@ -4,4 +4,9 @@
     font-family: "Poppins", sans-serif;
     background: linear-gradient(160deg, #6A0DAD 30%, #ffffff 100%) !important;
     color: #fff !important;
+    box-shadow: 1px 5px 10px 2px grey !important;
+}
+
+.v-list-group__items .v-list-item {
+    padding-inline-start: unset !important;
 }
