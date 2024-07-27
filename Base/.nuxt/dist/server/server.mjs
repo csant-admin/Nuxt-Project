@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/CDUHIT/Desktop/frontend/cam2rescue-frontend/Nuxt-Project/Base/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
